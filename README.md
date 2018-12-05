@@ -14,6 +14,7 @@ In contrast with the first experimental setup, the second experiment omits the l
 ![EXP 2](https://i.postimg.cc/SsrwFgvg/EXP2.png)
 
 **Experiment 3 - ****CNN With Two Phase-Folded Representations******
+
 The third experiment uses two global views with a width of 2001, and two local views of length 201 as CNN input. Each local and global view represents a phase-folded representation of half of the available Kepler data. Splitting the preprocessing over two halves of the dataset may preserve more subtle details in the data, that might have been lost in other experiments. This approach results in two sets of views which share the same general pattern, but differ in some specifics, as can be seen in the figure below.
 
 ![EXP 3](https://i.postimg.cc/MGYsvvmT/EXP3.png)
