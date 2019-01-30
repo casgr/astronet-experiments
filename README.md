@@ -1,5 +1,5 @@
 ﻿# astronet-experiments
-Experiments performed during the master thesis "Effects of Altering Input on a Convolutional Neural Network for Exoplanet Detection". All experiments are based on [Astronet](https://github.com/tensorflow/models/tree/master/research/astronet), and the accompanying [paper](http://iopscience.iop.org/article/10.3847/1538-3881/aa9e09/meta) by Chris Shallue and Andrew Vanderburg (2018). Users are able to replicate these experiments by following the original Astronet [tutorial](https://github.com/google-research/exoplanet-ml/blob/master/exoplanet-ml/astronet/README.md).
+Experiments performed during the master thesis "Improving Convolutional Neural Networks for Exoplanet Detection". All experiments are based on [Astronet](https://github.com/tensorflow/models/tree/master/research/astronet), and the accompanying [paper](http://iopscience.iop.org/article/10.3847/1538-3881/aa9e09/meta) by Chris Shallue and Andrew Vanderburg (2018). Users are able to replicate these experiments by following the original Astronet [tutorial](https://github.com/google-research/exoplanet-ml/blob/master/exoplanet-ml/astronet/README.md).
 
 **Experiment 1 - **CNN With Added Local View****
 
