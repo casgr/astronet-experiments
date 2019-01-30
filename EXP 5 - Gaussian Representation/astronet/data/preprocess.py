@@ -149,7 +149,7 @@ def generate_view(time, flux, num_bins, bin_width, t_min, t_max,
   return view
 
 
-def global_view(time, flux, period, num_bins=16008, bin_width_factor=1 / 16008):
+def global_view(time, flux, period, num_bins=8004, bin_width_factor=1 / 8004):
       """Generates a 'global view' of a phase folded light curve, with 
           application of a Gaussian representation.
 

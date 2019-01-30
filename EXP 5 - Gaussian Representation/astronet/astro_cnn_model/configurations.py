@@ -51,7 +51,9 @@ def base():
 
 
 def local_global():
-  """Base configuration for a CNN model with separate local/global views."""
+  """Base configuration for a CNN model with separate local/global views. 
+     In this setup, the configuration is altered to support one single global 
+     view, generated via application of a Gaussian pyramid."""
   config = parent_configs.base()
 
   # Override the model features to be global_view time series.
